@@ -77,3 +77,26 @@ Le détail d'un film est sauvegardé en cache. Donc, à condition de l'avoir pr�
 L'affichage du détail utilise Material Design : L'image se compresse lorsu'on scroll l'écran vers le bas.
 
 <img src="img_readme/detailmin.jpg">
+
+## Architecture MVC
+<pre><code>
++-- app/
+|   +-- manifests/
+|   |   +-- AndroidManifest.xml
+|   +-- java/
+|   |   +-- com.example.filmdatabase/
+|   |   |   +-- controller/
+|   |   |   |   +-- (*.java)
+|   |   |   +-- model/
+|   |   |   |   +-- (*.java)
+|   |   |   +-- restapi/
+|   |   |   |   +-- (*.java)
+|   |   |   +-- view/
+|   |   |   |   +-- (*.java)
+|   +-- res/
+|   |   +-- drawable/, font/, layout/, menu/, mipmap/, values/
+|   |   |   +-- (*.xml)
+|   |   |   +-- (*.png)
++-- Gradle Scripts/
+</code></pre>
+
