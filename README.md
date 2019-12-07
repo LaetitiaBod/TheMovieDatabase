@@ -14,7 +14,7 @@ L'utilisateur peut également gérer une liste de "favoris" et une listes de "fi
 ## Outils de développement
 
 - Environnement de développement : Android Studio
-<img src="img_readme/androidstudio.jpg">
+<img src="img_readme/androidstudio.png">
 
 
 - Librairie pour effectuer des appels à des webservices REST sur Android Studio : Retrofit2
