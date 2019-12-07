@@ -38,12 +38,12 @@ L'utilisateur peut également gérer une liste de "favoris" et une listes de "fi
 - Material Design : design basé sur l'application <a href="https://play.google.com/store/apps/details?id=com.tozelabs.tvshowtime&hl=fr">TV Time</a>
 
 
-# SplashScreen
+### SplashScreen
 
 Ecran de lancement de l'application
 <img src="img_readme/splash.jpg">
 
-# Liste de films
+### Liste de films
 
 Liste affichée à l'aide du *RecyclerView*. Le contenu de la liste est récupéré à l'aide d'un appel webservice REST.
 <img src="img_readme/list.jpg">
@@ -53,16 +53,16 @@ La liste peut être triée selon les options affichées. Lorsqu'on choisit une o
 
 Cette liste est stockée en cache : lorsqu'on relance l'application, la liste ne se recharge pas. Elle est également disponible hors ligne.
 
-# Liste de favoris
+### Liste de favoris
 
 Le contenu de la liste est récupérée via les SharedPreferences. Le film est stocké lorsque l'utilisateur choisit de mettre un film en favoris dans l'écran "Movie list". La liste reste sauvegardée même après avoir rechargé l'application. La liste est disponible hors ligne.
 <img src="img_readme/favorites.jpg">
 
-# Liste de films à voir
+### Liste de films à voir
 Cette liste fonctionne sur le même principe que la liste de "favoris".
 <img src="img_readme/tosee.jpg">
 
-# Détail d'un film
+### Détail d'un film
 
 Le détail d'un film est disponible lorsqu'on clique sur son titre et ce à partir de nimporte laquelle des trois listes.
 Le détail d'un film est sauvegardé en cache. Donc, à condition de l'avoir précédemment chargé, le détail est disponible hors ligne.
