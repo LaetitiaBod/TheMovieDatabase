@@ -14,10 +14,10 @@ L'utilisateur peut également gérer une liste de "favoris" et une listes de "fi
 <img src="img_readme/androidstudio.png">
 
 - Librairie pour effectuer des appels à des webservices REST sur Android Studio : Retrofit2
-<img src="img_readme/retrofit2.png">
+<img src="img_readme/retrofit2.jpg">
 
 - Ensemble de règles de design proposées par Google : Material Design
-<img src="img_readme/materialdesign.png">
+<img src="img_readme/materialdesign.jpg">
 
 ## Consignes et fonctionnalités
 
