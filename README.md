@@ -28,7 +28,7 @@ L'utilisateur peut également gérer une liste de "favoris" et une listes de "fi
 ## Consignes et fonctionnalités
 
 - Deux activités et 3 fragments
-- Utilisation de *RecyclerView
+- Utilisation de *RecyclerView*
 - Appel webservices à une API REST : <a href="https://www.themoviedb.org/documentation/api">TheMovieDatabase</a>
 - Stockage des données en cache avec un singleton
 - Utilisation des SharedPreferences pour sauvegarder les listes "favoris" et "à voir"
@@ -63,6 +63,7 @@ Le contenu de la liste est récupérée via les SharedPreferences. Le film est s
 <img src="img_readme/favorites.jpg">
 
 ### Liste de films à voir
+
 Cette liste fonctionne sur le même principe que la liste de "favoris".
 
 <img src="img_readme/tosee.jpg">
@@ -74,7 +75,7 @@ Le détail d'un film est sauvegardé en cache. Donc, à condition de l'avoir pr�
 
 <img src="img_readme/detailmax.jpg">
 
-L'affichage du détail utilise Material Design : L'image se compresse lorsu'on scroll l'écran vers le bas.
+L'affichage du détail utilise Material Design : l'image se compresse lorsqu'on scroll l'écran vers le bas à l'aide d'un *CollapsingToolbarLayout*.
 
 <img src="img_readme/detailmin.jpg">
 
