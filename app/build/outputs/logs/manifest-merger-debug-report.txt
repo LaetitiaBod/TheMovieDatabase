@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\74accb2a6769e30b5f71391d2380b455\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\250c6b290451c2f987d32311bb51ca15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fab8d592fd12be2bcaeac1cd7e23985c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c69eb35807ded756c33bc3eaca031f41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\588c2663a59fdb95754b73de7d072bea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6e85461193a793b10e587768ab158968\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f979ba83763f728dd652a0a3986a596c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d65759d38659bb8f739ca9355c67111\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8652bb5a7e15031c10152643693787d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ff5884617113cdeb11cfce83a9d27109\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ce05f9a638ecd48dfdeb6a5f724a1ade\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\adb6f977a0e656758aa9617046afe3d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\afa61e82e2ed1c8273da04458675f52a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4e8b416595da5d8e2052b29936d7d54b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f76b3241a60f59bbbf730c1a67297e07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0028feb76d0721a39b654427242ff324\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c61e3d2d94263706803d252a41c2a3f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\672ef0aadc51908a4453bfd435fac471\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f4c2adad1c249b7b79acea37dc9711\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c91d9365d51307bf0a586e4d38fd8328\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\dc39331e00efdb8794d356939b1de0fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\25b572c15e487e5c9e5fd7ef8e234ae8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d13df8324755ec952612113ca138bd67\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\40187f7d2a1dcfd410288458961f1345\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c91743c0c80d4f0942b0c30c2ab8216d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\95c77d48b9e3383d284082cd06335168\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7595a2070ed75eb1edafe336ddfe3416\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34d2856eb34826f98e5e2bf24599b446\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95020be2c6de88bcfecc2daa5fe0d04c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e370c7820dadff9f7713e69ed90b0540\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1e570783c8301cc721bb086c62783824\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d15158a9a0202b6afb23c8f1fe441bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6214caf05c4d79db9817bc215625ba7f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\74accb2a6769e30b5f71391d2380b455\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\74accb2a6769e30b5f71391d2380b455\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fab8d592fd12be2bcaeac1cd7e23985c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fab8d592fd12be2bcaeac1cd7e23985c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d13df8324755ec952612113ca138bd67\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d13df8324755ec952612113ca138bd67\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.filmdatabase.view.BottomNavigationActivity
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:15:9-67
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:15:19-64
+activity#com.example.filmdatabase.view.DetailActivity
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:16:9-57
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:16:19-54
+activity#com.example.filmdatabase.view.SplashScreen
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:theme
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:18:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#preloaded_fonts
+ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:27:9-29:57
+	android:resource
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:29:13-54
+	android:name
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml:28:13-43
+uses-sdk
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\74accb2a6769e30b5f71391d2380b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\74accb2a6769e30b5f71391d2380b455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\250c6b290451c2f987d32311bb51ca15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\250c6b290451c2f987d32311bb51ca15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fab8d592fd12be2bcaeac1cd7e23985c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\fab8d592fd12be2bcaeac1cd7e23985c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c69eb35807ded756c33bc3eaca031f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\c69eb35807ded756c33bc3eaca031f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\588c2663a59fdb95754b73de7d072bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\588c2663a59fdb95754b73de7d072bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6e85461193a793b10e587768ab158968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6e85461193a793b10e587768ab158968\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f979ba83763f728dd652a0a3986a596c\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f979ba83763f728dd652a0a3986a596c\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d65759d38659bb8f739ca9355c67111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9d65759d38659bb8f739ca9355c67111\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8652bb5a7e15031c10152643693787d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8652bb5a7e15031c10152643693787d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ff5884617113cdeb11cfce83a9d27109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ff5884617113cdeb11cfce83a9d27109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ce05f9a638ecd48dfdeb6a5f724a1ade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ce05f9a638ecd48dfdeb6a5f724a1ade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\adb6f977a0e656758aa9617046afe3d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\adb6f977a0e656758aa9617046afe3d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\afa61e82e2ed1c8273da04458675f52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\afa61e82e2ed1c8273da04458675f52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4e8b416595da5d8e2052b29936d7d54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4e8b416595da5d8e2052b29936d7d54b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f76b3241a60f59bbbf730c1a67297e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f76b3241a60f59bbbf730c1a67297e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0028feb76d0721a39b654427242ff324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0028feb76d0721a39b654427242ff324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c61e3d2d94263706803d252a41c2a3f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c61e3d2d94263706803d252a41c2a3f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\672ef0aadc51908a4453bfd435fac471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\672ef0aadc51908a4453bfd435fac471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f4c2adad1c249b7b79acea37dc9711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\12f4c2adad1c249b7b79acea37dc9711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c91d9365d51307bf0a586e4d38fd8328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c91d9365d51307bf0a586e4d38fd8328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\dc39331e00efdb8794d356939b1de0fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\dc39331e00efdb8794d356939b1de0fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\25b572c15e487e5c9e5fd7ef8e234ae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\25b572c15e487e5c9e5fd7ef8e234ae8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40888fef828cbbde2ff71b5a301d0a48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d13df8324755ec952612113ca138bd67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d13df8324755ec952612113ca138bd67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\40187f7d2a1dcfd410288458961f1345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\40187f7d2a1dcfd410288458961f1345\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c91743c0c80d4f0942b0c30c2ab8216d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c91743c0c80d4f0942b0c30c2ab8216d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\95c77d48b9e3383d284082cd06335168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\95c77d48b9e3383d284082cd06335168\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7595a2070ed75eb1edafe336ddfe3416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7595a2070ed75eb1edafe336ddfe3416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34d2856eb34826f98e5e2bf24599b446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\34d2856eb34826f98e5e2bf24599b446\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95020be2c6de88bcfecc2daa5fe0d04c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95020be2c6de88bcfecc2daa5fe0d04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e370c7820dadff9f7713e69ed90b0540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e370c7820dadff9f7713e69ed90b0540\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1e570783c8301cc721bb086c62783824\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1e570783c8301cc721bb086c62783824\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d15158a9a0202b6afb23c8f1fe441bb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d15158a9a0202b6afb23c8f1fe441bb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6214caf05c4d79db9817bc215625ba7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Laetitia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6214caf05c4d79db9817bc215625ba7f\AndroidManifest.xml:20:5-44
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Laetitia\Documents\ESIEA\4A\Mobile\FilmDatabase\app\src\main\AndroidManifest.xml

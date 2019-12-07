@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="120dp"
+    android:background="@color/colorPrimaryDark"
+    android:padding="6dip">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="110dp"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/splashscreen_small" />
+
+
+    <TextView
+        android:id="@+id/thirdLine"
+        android:layout_width="250dp"
+        android:layout_height="26dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@id/icon"
+        android:layout_marginEnd="85dp"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/secondLine"
+        android:layout_width="250dp"
+        android:layout_height="26dp"
+        android:layout_above="@+id/thirdLine"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="0dp"
+        android:layout_toEndOf="@id/icon"
+        android:textColor="@color/colorAccent"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/firstLine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_above="@id/secondLine"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@id/icon"
+        android:gravity="center_vertical"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/addFavorite"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_below="@+id/firstLine"
+        android:layout_alignEnd="@+id/firstLine"
+        android:layout_alignBottom="@+id/thirdLine"
+        android:layout_marginEnd="10dp"
+        android:color="@drawable/selector_bottombar"
+        android:src="@drawable/favorites" />
+
+    <ImageView
+        android:id="@+id/addTosee"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_below="@+id/firstLine"
+        android:layout_alignBottom="@+id/addFavorite"
+        android:layout_toStartOf="@+id/addFavorite"
+        android:layout_toEndOf="@id/secondLine"
+        android:layout_marginStart="-85dp"
+        android:layout_marginEnd="25dp"
+        android:color="@drawable/selector_bottombar"
+        android:src="@drawable/eye" />
+
+</RelativeLayout>

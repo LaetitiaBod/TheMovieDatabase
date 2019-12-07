@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Movie database</string>
+    <string name="title">The Movie database</string>
+    <string name="button">button</string>
+    <string name="icone">icone</string>
+    <string name="start">START</string>
+    <string name="token">7ab37008e76e29b77ad111d465cf446c</string>
+    <string name="suivant"><![CDATA[>]]></string>
+    <string name="precedent"><![CDATA[<]]></string>
+    <string name="overview">Overview :</string>
+    <string name="release">release</string>
+    <string name="runtime">runtime</string>
+    <string name="vote">vote</string>
+    <string name="overviewtext">overview</string>
+    <string name="titletext">title</string>
+    <string name="tagline">tagline</string>
+    <string name="movie_list">Movie list</string>
+    <string name="to_see">To see</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="spinnertext">salut</string>
+
+</resources>
