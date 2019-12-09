@@ -60,13 +60,13 @@ Cette liste est stockée en cache : lorsqu'on relance l'application, la liste ne
 
 Le contenu de la liste est récupérée via les SharedPreferences. Le film est stocké lorsque l'utilisateur choisit de mettre un film en favoris dans l'écran "Movie list". L'utilisateur est notifié du bon ajout/suppression de son film via un *Toast*. La liste reste sauvegardée même après avoir rechargé l'application. La liste est disponible hors ligne.
 
-<img src="img_readme/favorites.jpg">
+<img src="img_readme/favorites.jpg"><img src="img_readme/favorisempty.jpg">
 
 ### Liste de films à voir
 
 Cette liste fonctionne sur le même principe que la liste de "favoris".
 
-<img src="img_readme/tosee.jpg">
+<img src="img_readme/tosee.jpg"><img src="img_readme/toseeempty.jpg">
 
 ### Détail d'un film
 
